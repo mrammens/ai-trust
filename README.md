@@ -1,3 +1,3 @@
 # ai TRUST
 
-intro coming soon
+This is the official repository for the AI+TRUST Project Pipeline
